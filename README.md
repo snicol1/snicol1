@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Spencer - Sr. Product Designer turned Software Developer. I'm currently enrolled in the Full Stack Development Bootcamp at Tech Elevator. Check out my linkedin and stay tuned for upcoming projects!
+
 <!--
 **snicol1/snicol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
